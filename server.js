@@ -23,7 +23,7 @@ app.use(bodyParser.json());
 //// ROUTES
 
 app.get("/", (req, res) => {
-  res.json("This is my webscraper");
+  res.json("This is my Women's Super League API");
 });
 
 //General Information About WSL and its history
