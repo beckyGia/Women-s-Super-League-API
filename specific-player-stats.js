@@ -1538,7 +1538,7 @@ exports.specificPlayerStats = [
   {
     name: "Emily Orman",
     image:
-      "https://img.chelseafc.com//image/upload/f_auto,q_a…022-23/final/Orman_profile_avatar_final_22-23.png",
+      "https://img.chelseafc.com//image/upload/f_auto,q_auto:best,f_auto,q_50,h_860/editorial/people/ladies/2022-23/final/Orman_profile_avatar_final_22-23.png",
     club: "Chelsea",
     position: "GK",
   },
