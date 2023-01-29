@@ -4069,7 +4069,7 @@ exports.specificPlayerStats = [
   {
     name: "Sophie Baggaley",
     image:
-      "https://assets.manutd.com/AssetPicker/images/0/0/16/247/1111872/Baggaley1658237019909.png",
+      "https://www.nailhouse.co.uk/wp-content/uploads/2020/02/jmp_bristol_city_women_media_day_headshots_sq_rh_020-300x294.jpg",
     club: "Manchester United",
     position: "GK",
   },
